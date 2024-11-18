@@ -51,7 +51,7 @@ printf "\e[1;38;5;196m                                   |___/|_|               
 printf "\n"
 printf "\e[1;77m\e[45m   Instagram Password Cracker - By Pralin Khaira   \e[0m\n"
 printf "\n"
-}
+} anishapatel484 by cd/crack passward
 
 cat <<EOF
 This Script is Designed And Developed
